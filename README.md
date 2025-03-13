@@ -25,7 +25,7 @@ fi
 echo "0:$PSLIST:$PSLIST Adet"
 ```
 
-3. Betiğe çe \xe7alıştırma izni verin:
+3. Betiğe çalıştırmaya  izni verin:
    ```sh
    chmod +x /var/prtg/scripts/postfixq.sh
    ```
@@ -52,5 +52,4 @@ Eğer bir hata alırsanız **Sorun Giderme** kısmına bakabilirsiniz.
   - Betiği manuel olarak  manuel olarak çalıştırın ve doğru sonucu döndürdüğünü kontrol edin.
   - PRTG'nin bağlandığı kullanıcının betiğe erişim izni olup olmadığını kontrol edin.
 
-Bu proje ile ilgili geri bildirimlerinizi ve iyileştirme önerilerinizi bekliyorum. İyi izlemeler! 🚀
-
+## Teşekkürler
